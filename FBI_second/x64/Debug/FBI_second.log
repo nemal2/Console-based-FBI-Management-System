@@ -1,0 +1,18 @@
+﻿  FBI_second.cpp
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Capabilities.h(126,17): warning C4129: 'T': unrecognized character escape sequence
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Capabilities.h(54,9): warning C4102: 'tempadmin': unreferenced label
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Capabilities.h(403,17): warning C4129: 'T': unrecognized character escape sequence
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Capabilities.h(408,9): warning C4102: 'nowback': unreferenced label
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\hash.h(14,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\hash.h(14,30): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Mainmenu.h(115,4): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Mainmenu.h(352,5): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\FBI_second.cpp(82,17): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\FBI_second.cpp(92,21): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\FBI_second.cpp(110,25): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\FBI_second.cpp(134,17): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\FBI_second.cpp(194,13): warning C4551: function call missing argument list
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Mainmenu.h(117): warning C4715: 'Mainmenu::AgentMainMenu': not all control paths return a value
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Mainmenu.h(244): warning C4715: 'Mainmenu::AdminMainMenu': not all control paths return a value
+E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\FBI_second\Capabilities.h(447): warning C4715: 'AdminCapabilities::accessCrime': not all control paths return a value
+  FBI_second.vcxproj -> E:\3_semester\Algorithm\project\MyProject_final\FBI2\FBI_second\x64\Debug\FBI_second.exe
